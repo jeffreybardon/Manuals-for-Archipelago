@@ -1,0 +1,398 @@
+[
+  {
+    
+		"name": "Day 2 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 3 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 4 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 5 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 6 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 7 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 8 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 9 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Day 10 Key",
+    
+		"category": [
+      "Key"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Bloodthirsty Yin-Yang Orb Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Tengu's Toy Camera Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Gap Folding Umbrella Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Miracle Mallet Replica Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Substitute Jizo Main (req 3)",
+    
+		"count":  3,
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Cursed Decoy Doll Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Four-Foot Magic Bomb Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Ghastly Send-Off Lantern Main (req 2)",
+    
+		"count":  2,
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Nimble Fabric Main",
+    
+		"category": [
+      "Item Main"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Bloodthirsty Yin-Yang Orb Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Tengu's Toy Camera Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Gap Folding Umbrella Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Miracle Mallet Replica Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Substitute Jizo Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Cursed Decoy Doll Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Four-Foot Magic Bomb Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Ghastly Send-Off Lantern Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"useful": true
+  },
+  {
+    
+		"name": "Nimble Fabric Sub",
+    
+		"category": [
+      "Item Sub"
+    ],
+    
+		"count":  1,
+    
+		"progression": true
+  },
+  {
+    
+		"name": "Nickname",
+    
+		"count":  30,
+    
+		"category": [
+      "Nickname"
+    ],
+    
+		"progression_skip_balancing": true
+  },
+  {
+    
+		"name": "Reclear Most Recent Check",
+    
+		"count":  3,
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"name": "Next Check Must Be Cleared Twice",
+    
+		"count":  3,
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"trap": true
+  },
+  {
+    
+		"name": "Scene Skip",
+    
+		"count":  3,
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"name": "One Attempt at Locked Scene",
+    
+		"count":  3,
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"useful": true
+  },
+  {
+    
+		"name": "One Attempt with Locked Item",
+    
+		"count":  3,
+    
+		"category": [
+      "Filler"
+    ],
+    
+		"useful": true
+  }
+]

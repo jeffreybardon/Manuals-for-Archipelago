@@ -1,0 +1,914 @@
+[
+  {
+    
+		"name": "Scene 1-1",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 1-2",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 1-3",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 1-4",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 1-5",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 1-6",
+    
+		"region": "Day 1",
+    
+		"category": [
+      "Day 01 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 2-1",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 2-2",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 2-3",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 2-4",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 2-5",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": "( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Bloodthirsty Yin-Yang Orb Main| AND |Cursed Decoy Doll Sub| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 2-6",
+    
+		"region": "Day 2",
+    
+		"category": [
+      "Day 02 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 3-1",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 3-2",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 3-3",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| ) OR ( |Miracle Mallet Replica Main| AND |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 3-4",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": "( |Gap Folding Umbrella Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 3-5",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 3-6",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 3-7",
+    
+		"region": "Day 3",
+    
+		"category": [
+      "Day 03 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Bloodthirsty Yin-Yang Orb Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 4-1",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 4-2",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Nimble Fabric Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 4-3",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": "( |Gap Folding Umbrella Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Tengu's Toy Camera Main| AND |Cursed Decoy Doll Sub| ) OR ( |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 4-4",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 4-5",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 4-6",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 4-7",
+    
+		"region": "Day 4",
+    
+		"category": [
+      "Day 04 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 5-1",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 5-2",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 5-3",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Gap Folding Umbrella Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Nimble Fabric Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Substitute Jizo Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 5-4",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": "( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 5-5",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Nimble Fabric Main| AND |Nimble Fabric Sub| ) OR ( |Nimble Fabric Main| AND |Cursed Decoy Doll Sub| ) OR ( |Nimble Fabric Main| AND |Substitute Jizo Sub| ) OR ( |Nimble Fabric Main| AND |Miracle Mallet Replica Sub| )"
+  },
+  {
+    
+		"name": "Scene 5-6",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 5-7",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 5-8",
+    
+		"region": "Day 5",
+    
+		"category": [
+      "Day 05 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 6-1",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 6-2",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Nimble Fabric Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 6-3",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 6-4",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| ) OR ( |Miracle Mallet Replica Main| AND |Miracle Mallet Replica Sub| )"
+  },
+  {
+    
+		"name": "Scene 6-5",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 6-6",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Miracle Mallet Replica Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 6-7",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 6-8",
+    
+		"region": "Day 6",
+    
+		"category": [
+      "Day 06 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 7-1",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Gap Folding Umbrella Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 7-2",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 7-3",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 7-4",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 7-5",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 7-6",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 7-7",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 7-8",
+    
+		"region": "Day 7",
+    
+		"category": [
+      "Day 07 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 8-1",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 8-2",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| )"
+  },
+  {
+    
+		"name": "Scene 8-3",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": []
+  },
+  {
+    
+		"name": "Scene 8-4",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 8-5",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Gap Folding Umbrella Main| AND |Gap Folding Umbrella Sub| ) OR ( |Gap Folding Umbrella Main| AND |Substitute Jizo Sub| ) OR ( |Gap Folding Umbrella Main| AND |Miracle Mallet Replica Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 8-6",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 8-7",
+    
+		"region": "Day 8",
+    
+		"category": [
+      "Day 08 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-1",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Gap Folding Umbrella Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-2",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-3",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| ) OR ( |Gap Folding Umbrella Main| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-4",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 9-5",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Nimble Fabric Main| ) OR ( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-6",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-7",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Tengu's Toy Camera Main| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| AND |Substitute Jizo Sub| ) OR ( |Nimble Fabric Main| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 9-8",
+    
+		"region": "Day 9",
+    
+		"category": [
+      "Day 09 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Scene 10-1",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-2",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "|Substitute Jizo Main (req 3):3|"
+  },
+  {
+    
+		"name": "Scene 10-3",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Cursed Decoy Doll Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-4",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-5",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Bloodthirsty Yin-Yang Orb Main| ) OR ( |Substitute Jizo Main (req 3):3| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-6",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "|Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub|"
+  },
+  {
+    
+		"name": "Scene 10-7",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Four-Foot Magic Bomb Main| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-8",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| AND |Cursed Decoy Doll Sub| ) OR ( |Four-Foot Magic Bomb Main| AND |Cursed Decoy Doll Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-9",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Substitute Jizo Main (req 3):3| ) OR ( |Miracle Mallet Replica Main| ) OR ( |Gap Folding Umbrella Main| AND |Miracle Mallet Replica Sub| ) OR ( |Gap Folding Umbrella Main| AND |Gap Folding Umbrella Sub| )"
+  },
+  {
+    
+		"name": "Scene 10-10",
+    
+		"region": "Day 10",
+    
+		"category": [
+      "Day 10 Scenes"
+    ],
+    
+		"requires": "( |Cursed Decoy Doll Sub| ) OR ( |Four-Foot Magic Bomb Main| ) OR ( |Ghastly Send-Off Lantern Main (req 2):2| ) OR ( |Substitute Jizo Main (req 3):3| )"
+  },
+  {
+    
+		"name": "Nickname Hunt",
+    
+		"requires": "|Nickname:25|",
+    
+		"category": [
+      "Victory"
+    ],
+    
+		"victory": true
+  }
+]
