@@ -1,0 +1,1545 @@
+[
+  {
+    "name": "Starting Shot",
+    "category": [
+      "Meta"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "EoSD Shot",
+      "PCB Shot",
+      "IN Shot",
+      "MoF Shot",
+      "SA Shot",
+      "UFO Shot",
+      "TD Shot",
+      "DDC Shot",
+      "LoLK Shot",
+      "UM Shot"
+    ],
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 1",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "((|EoSD ReimuA|) OR (|EoSD ReimuB|) OR (|EoSD MarisaA|) OR (|EoSD MarisaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 1 Boss (Rumia)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "((|EoSD ReimuA|) OR (|EoSD ReimuB|) OR (|EoSD MarisaA|) OR (|EoSD MarisaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 2",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:1|) AND ((|EoSD ReimuA|) OR (|EoSD ReimuB|) OR (|EoSD MarisaA|) OR (|EoSD MarisaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 2 Boss (Cirno)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:1|) AND ((|EoSD ReimuA|) OR (|EoSD ReimuB|) OR (|EoSD MarisaA|) OR (|EoSD MarisaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 3",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:2|) AND ((|EoSD ReimuA| AND |Starting Life:1|) OR (|EoSD ReimuB| AND |Starting Life:1|) OR (|EoSD MarisaA| AND |Starting Life:1|) OR (|EoSD MarisaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 3 Boss (Meiling)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:2|) AND ((|EoSD ReimuA| AND |Starting Life:3|) OR (|EoSD ReimuB| AND |Starting Life:3|) OR (|EoSD MarisaA| AND |Starting Life:3|) OR (|EoSD MarisaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 4",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:2|) OR (|EoSD ReimuB| AND |Starting Life:2|) OR (|EoSD MarisaA| AND |Starting Life:2|) OR (|EoSD MarisaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 4 Boss (Patchouli)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:5|) OR (|EoSD ReimuB| AND |Starting Life:5|) OR (|EoSD MarisaA| AND |Starting Life:6|) OR (|EoSD MarisaB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 5",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:4|) AND ((|EoSD ReimuA| AND |Starting Life:1|) OR (|EoSD ReimuB| AND |Starting Life:1|) OR (|EoSD MarisaA| AND |Starting Life:1|) OR (|EoSD MarisaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 5 Boss (Sakuya)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:4|) AND ((|EoSD ReimuA| AND |Starting Life:5|) OR (|EoSD ReimuB| AND |Starting Life:4|) OR (|EoSD MarisaA| AND |Starting Life:4|) OR (|EoSD MarisaB| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 6",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:5|) AND ((|EoSD ReimuA| AND |Starting Life:1|) OR (|EoSD ReimuB| AND |Starting Life:1|) OR (|EoSD MarisaA| AND |Starting Life:1|) OR (|EoSD MarisaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage 6 Boss (Remilia)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Progressive EoSD Stage:5|) AND ((|EoSD ReimuA| AND |Starting Life:6|) OR (|EoSD ReimuB| AND |Starting Life:6|) OR (|EoSD MarisaA| AND |Starting Life:6|) OR (|EoSD MarisaB| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage EX",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Extra Stage EoSD|) AND (|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:1|) OR (|EoSD ReimuB| AND |Starting Life:1|) OR (|EoSD MarisaA| AND |Starting Life:1|) OR (|EoSD MarisaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage EX Boss Spell 5 (Flandre)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Extra Stage EoSD|) AND (|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:2|) OR (|EoSD ReimuB| AND |Starting Life:2|) OR (|EoSD MarisaA| AND |Starting Life:2|) OR (|EoSD MarisaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "EoSD Stage EX Boss Clear (Flandre)",
+    "category": [
+      "TH06 - EoSD"
+    ],
+    "requires": "(|Extra Stage EoSD|) AND (|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:4|) OR (|EoSD ReimuB| AND |Starting Life:4|) OR (|EoSD MarisaA| AND |Starting Life:4|) OR (|EoSD MarisaB| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 1",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "((|PCB ReimuA|) OR (|PCB ReimuB|) OR (|PCB MarisaA|) OR (|PCB MarisaB|) OR (|PCB SakuyaA|) OR (|PCB SakuyaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 1 Boss (Letty)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "((|PCB ReimuA|) OR (|PCB ReimuB|) OR (|PCB MarisaA|) OR (|PCB MarisaB|) OR (|PCB SakuyaA|) OR (|PCB SakuyaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 2",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:1|) AND ((|PCB ReimuA|) OR (|PCB ReimuB|) OR (|PCB MarisaA|) OR (|PCB MarisaB|) OR (|PCB SakuyaA|) OR (|PCB SakuyaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 2 Boss (Chen)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:1|) AND ((|PCB ReimuA| AND |Starting Life:1|) OR (|PCB ReimuB| AND |Starting Life:1|) OR (|PCB MarisaA| AND |Starting Life:1|) OR (|PCB MarisaB| AND |Starting Life:1|) OR (|PCB SakuyaA| AND |Starting Life:1|) OR (|PCB SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 3",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:2|) AND ((|PCB ReimuA| AND |Starting Life:1|) OR (|PCB ReimuB| AND |Starting Life:1|) OR (|PCB MarisaA| AND |Starting Life:1|) OR (|PCB MarisaB| AND |Starting Life:1|) OR (|PCB SakuyaA| AND |Starting Life:1|) OR (|PCB SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 3 Boss (Alice)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:2|) AND ((|PCB ReimuA| AND |Starting Life:4|) OR (|PCB ReimuB| AND |Starting Life:3|) OR (|PCB MarisaA| AND |Starting Life:3|) OR (|PCB MarisaB| AND |Starting Life:3|) OR (|PCB SakuyaA| AND |Starting Life:3|) OR (|PCB SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 4",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:3|) AND ((|PCB ReimuA| AND |Starting Life:3|) OR (|PCB ReimuB| AND |Starting Life:3|) OR (|PCB MarisaA| AND |Starting Life:3|) OR (|PCB MarisaB| AND |Starting Life:3|) OR (|PCB SakuyaA| AND |Starting Life:3|) OR (|PCB SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 4 Boss (Prismrivers)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:3|) AND ((|PCB ReimuA| AND |Starting Life:6|) OR (|PCB ReimuB| AND |Starting Life:5|) OR (|PCB MarisaA| AND |Starting Life:5|) OR (|PCB MarisaB| AND |Starting Life:5|) OR (|PCB SakuyaA| AND |Starting Life:6|) OR (|PCB SakuyaB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 5",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:4|) AND ((|PCB ReimuA| AND |Starting Life:1|) OR (|PCB ReimuB| AND |Starting Life:1|) OR (|PCB MarisaA| AND |Starting Life:1|) OR (|PCB MarisaB| AND |Starting Life:1|) OR (|PCB SakuyaA| AND |Starting Life:1|) OR (|PCB SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 5 Boss (Youmu)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:4|) AND ((|PCB ReimuA| AND |Starting Life:4|) OR (|PCB ReimuB| AND |Starting Life:3|) OR (|PCB MarisaA| AND |Starting Life:3|) OR (|PCB MarisaB| AND |Starting Life:4|) OR (|PCB SakuyaA| AND |Starting Life:3|) OR (|PCB SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 6",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:5|) AND ((|PCB ReimuA| AND |Starting Life:1|) OR (|PCB ReimuB| AND |Starting Life:1|) OR (|PCB MarisaA| AND |Starting Life:1|) OR (|PCB MarisaB| AND |Starting Life:1|) OR (|PCB SakuyaA| AND |Starting Life:1|) OR (|PCB SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage 6 Boss (Yuyuko)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Progressive PCB Stage:5|) AND ((|PCB ReimuA| AND |Starting Life:6|) OR (|PCB ReimuB| AND |Starting Life:5|) OR (|PCB MarisaA| AND |Starting Life:5|) OR (|PCB MarisaB| AND |Starting Life:5|) OR (|PCB SakuyaA| AND |Starting Life:5|) OR (|PCB SakuyaB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage EX",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB|) AND (|Progressive PCB Stage:3|) AND ((|PCB ReimuA| AND |Starting Life:1|) OR (|PCB ReimuB| AND |Starting Life:1|) OR (|PCB MarisaA| AND |Starting Life:1|) OR (|PCB MarisaB| AND |Starting Life:1|) OR (|PCB SakuyaA| AND |Starting Life:1|) OR (|PCB SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage EX Boss Spell 5 (Ran)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB|) AND (|Progressive PCB Stage:3|) AND ((|PCB ReimuA| AND |Starting Life:3|) OR (|PCB ReimuB| AND |Starting Life:3|) OR (|PCB MarisaA| AND |Starting Life:3|) OR (|PCB MarisaB| AND |Starting Life:3|) OR (|PCB SakuyaA| AND |Starting Life:3|) OR (|PCB SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage EX Boss Clear (Ran)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB|) AND (|Progressive PCB Stage:3|) AND ((|PCB ReimuA| AND |Starting Life:6|) OR (|PCB ReimuB| AND |Starting Life:6|) OR (|PCB MarisaA| AND |Starting Life:6|) OR (|PCB MarisaB| AND |Starting Life:6|) OR (|PCB SakuyaA| AND |Starting Life:6|) OR (|PCB SakuyaB| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage PH",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB:2|) AND (|Progressive PCB Stage:4|) AND ((|PCB ReimuA| AND |Starting Life:2|) OR (|PCB ReimuB| AND |Starting Life:2|) OR (|PCB MarisaA| AND |Starting Life:2|) OR (|PCB MarisaB| AND |Starting Life:2|) OR (|PCB SakuyaA| AND |Starting Life:2|) OR (|PCB SakuyaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage PH Boss Spell 5 (Yukari)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB:2|) AND (|Progressive PCB Stage:4|) AND ((|PCB ReimuA| AND |Starting Life:4|) OR (|PCB ReimuB| AND |Starting Life:4|) OR (|PCB MarisaA| AND |Starting Life:4|) OR (|PCB MarisaB| AND |Starting Life:4|) OR (|PCB SakuyaA| AND |Starting Life:4|) OR (|PCB SakuyaB| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "PCB Stage PH Boss Clear (Yukari)",
+    "category": [
+      "TH07 - PCB"
+    ],
+    "requires": "(|Extra Stage PCB:2|) AND (|Progressive PCB Stage:4|) AND ((|PCB ReimuA| AND |Starting Life:7|) OR (|PCB ReimuB| AND |Starting Life:7|) OR (|PCB MarisaA| AND |Starting Life:7|) OR (|PCB MarisaB| AND |Starting Life:7|) OR (|PCB SakuyaA| AND |Starting Life:7|) OR (|PCB SakuyaB| AND |Starting Life:7|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 1",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 1 Boss (Wriggle)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo| AND |Starting Life:1|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo| AND |Starting Life:1|) OR (|IN Sakuya Solo| AND |Starting Life:1|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 2",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:1|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 2 Boss (Mystia)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:1|) AND ((|IN Border Team| AND |Starting Life:2|) OR (|IN Magic Team| AND |Starting Life:2|) OR (|IN Scarlet Team| AND |Starting Life:2|) OR (|IN Ghost Team| AND |Starting Life:2|) OR (|IN Reimu Solo| AND |Starting Life:3|) OR (|IN Yukari Solo| AND |Starting Life:3|) OR (|IN Marisa Solo| AND |Starting Life:2|) OR (|IN Alice Solo| AND |Starting Life:3|) OR (|IN Sakuya Solo| AND |Starting Life:3|) OR (|IN Remilia Solo| AND |Starting Life:3|) OR (|IN Youmu Solo| AND |Starting Life:3|) OR (|IN Yuyuko Solo| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 3",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:2|) AND ((|IN Border Team| AND |Starting Life:1|) OR (|IN Magic Team| AND |Starting Life:1|) OR (|IN Scarlet Team| AND |Starting Life:1|) OR (|IN Ghost Team| AND |Starting Life:1|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:1|) OR (|IN Marisa Solo| AND |Starting Life:1|) OR (|IN Alice Solo| AND |Starting Life:1|) OR (|IN Sakuya Solo| AND |Starting Life:2|) OR (|IN Remilia Solo| AND |Starting Life:1|) OR (|IN Youmu Solo| AND |Starting Life:1|) OR (|IN Yuyuko Solo| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 3 Boss (Keine)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:2|) AND ((|IN Border Team| AND |Starting Life:2|) OR (|IN Magic Team| AND |Starting Life:2|) OR (|IN Scarlet Team| AND |Starting Life:2|) OR (|IN Ghost Team| AND |Starting Life:2|) OR (|IN Reimu Solo| AND |Starting Life:4|) OR (|IN Yukari Solo| AND |Starting Life:3|) OR (|IN Marisa Solo| AND |Starting Life:2|) OR (|IN Alice Solo| AND |Starting Life:3|) OR (|IN Sakuya Solo| AND |Starting Life:4|) OR (|IN Remilia Solo| AND |Starting Life:3|) OR (|IN Youmu Solo| AND |Starting Life:2|) OR (|IN Yuyuko Solo| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 4A",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:3|) AND ((|IN Magic Team| AND |Starting Life:2|) OR (|IN Scarlet Team| AND |Starting Life:2|) OR (|IN Marisa Solo| AND |Starting Life:3|) OR (|IN Alice Solo| AND |Starting Life:3|) OR (|IN Sakuya Solo| AND |Starting Life:4|) OR (|IN Remilia Solo| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 4A Boss (Reimu)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:3|) AND ((|IN Magic Team| AND |Starting Life:5|) OR (|IN Scarlet Team| AND |Starting Life:5|) OR (|IN Marisa Solo| AND |Starting Life:6|) OR (|IN Alice Solo| AND |Starting Life:6|) OR (|IN Sakuya Solo| AND |Starting Life:7|) OR (|IN Remilia Solo| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 4B",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:3|) AND ((|IN Border Team| AND |Starting Life:2|) OR (|IN Ghost Team| AND |Starting Life:2|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:2|) OR (|IN Youmu Solo| AND |Starting Life:3|) OR (|IN Yuyuko Solo| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 4B Boss (Marisa)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:3|) AND ((|IN Border Team| AND |Starting Life:4|) OR (|IN Ghost Team| AND |Starting Life:4|) OR (|IN Reimu Solo| AND |Starting Life:5|) OR (|IN Yukari Solo| AND |Starting Life:4|) OR (|IN Youmu Solo| AND |Starting Life:5|) OR (|IN Yuyuko Solo| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 5",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:4|) AND ((|IN Border Team| AND |Starting Life:1|) OR (|IN Magic Team| AND |Starting Life:1|) OR (|IN Scarlet Team| AND |Starting Life:1|) OR (|IN Ghost Team| AND |Starting Life:1|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:1|) OR (|IN Marisa Solo| AND |Starting Life:1|) OR (|IN Alice Solo| AND |Starting Life:2|) OR (|IN Sakuya Solo| AND |Starting Life:2|) OR (|IN Remilia Solo| AND |Starting Life:1|) OR (|IN Youmu Solo| AND |Starting Life:1|) OR (|IN Yuyuko Solo| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 5 Boss (Reisen)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:4|) AND ((|IN Border Team| AND |Starting Life:3|) OR (|IN Magic Team| AND |Starting Life:3|) OR (|IN Scarlet Team| AND |Starting Life:3|) OR (|IN Ghost Team| AND |Starting Life:3|) OR (|IN Reimu Solo| AND |Starting Life:5|) OR (|IN Yukari Solo| AND |Starting Life:3|) OR (|IN Marisa Solo| AND |Starting Life:3|) OR (|IN Alice Solo| AND |Starting Life:4|) OR (|IN Sakuya Solo| AND |Starting Life:5|) OR (|IN Remilia Solo| AND |Starting Life:3|) OR (|IN Youmu Solo| AND |Starting Life:3|) OR (|IN Yuyuko Solo| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 6A",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:1|) OR (|IN Magic Team| AND |Starting Life:1|) OR (|IN Scarlet Team| AND |Starting Life:1|) OR (|IN Ghost Team| AND |Starting Life:1|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:1|) OR (|IN Marisa Solo| AND |Starting Life:1|) OR (|IN Alice Solo| AND |Starting Life:2|) OR (|IN Sakuya Solo| AND |Starting Life:2|) OR (|IN Remilia Solo| AND |Starting Life:1|) OR (|IN Youmu Solo| AND |Starting Life:1|) OR (|IN Yuyuko Solo| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 6A Boss (Eirin)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:5|) OR (|IN Magic Team| AND |Starting Life:5|) OR (|IN Scarlet Team| AND |Starting Life:5|) OR (|IN Ghost Team| AND |Starting Life:5|) OR (|IN Reimu Solo| AND |Starting Life:7|) OR (|IN Yukari Solo| AND |Starting Life:7|) OR (|IN Marisa Solo| AND |Starting Life:6|) OR (|IN Alice Solo| AND |Starting Life:8|) OR (|IN Sakuya Solo| AND |Starting Life:7|) OR (|IN Remilia Solo| AND |Starting Life:7|) OR (|IN Youmu Solo| AND |Starting Life:6|) OR (|IN Yuyuko Solo| AND |Starting Life:8|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 6B",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:1|) OR (|IN Magic Team| AND |Starting Life:1|) OR (|IN Scarlet Team| AND |Starting Life:1|) OR (|IN Ghost Team| AND |Starting Life:1|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:1|) OR (|IN Marisa Solo| AND |Starting Life:1|) OR (|IN Alice Solo| AND |Starting Life:2|) OR (|IN Sakuya Solo| AND |Starting Life:2|) OR (|IN Remilia Solo| AND |Starting Life:1|) OR (|IN Youmu Solo| AND |Starting Life:1|) OR (|IN Yuyuko Solo| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage 6B Boss (Kaguya)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:7|) OR (|IN Magic Team| AND |Starting Life:7|) OR (|IN Scarlet Team| AND |Starting Life:7|) OR (|IN Ghost Team| AND |Starting Life:7|) OR (|IN Reimu Solo| AND |Starting Life:9|) OR (|IN Yukari Solo| AND |Starting Life:8|) OR (|IN Marisa Solo| AND |Starting Life:8|) OR (|IN Alice Solo| AND |Starting Life:9|) OR (|IN Sakuya Solo| AND |Starting Life:9|) OR (|IN Remilia Solo| AND |Starting Life:8|) OR (|IN Youmu Solo| AND |Starting Life:8|) OR (|IN Yuyuko Solo| AND |Starting Life:9|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage EX",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Extra Stage IN|) AND (|Progressive IN Stage:3|) AND ((|IN Border Team| AND |Starting Life:2|) OR (|IN Magic Team| AND |Starting Life:2|) OR (|IN Scarlet Team| AND |Starting Life:2|) OR (|IN Ghost Team| AND |Starting Life:2|) OR (|IN Reimu Solo| AND |Starting Life:2|) OR (|IN Yukari Solo| AND |Starting Life:2|) OR (|IN Marisa Solo| AND |Starting Life:2|) OR (|IN Alice Solo| AND |Starting Life:2|) OR (|IN Sakuya Solo| AND |Starting Life:2|) OR (|IN Remilia Solo| AND |Starting Life:2|) OR (|IN Youmu Solo| AND |Starting Life:2|) OR (|IN Yuyuko Solo| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage EX Boss Spell 5 (Mokou)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Extra Stage IN|) AND (|Progressive IN Stage:3|) AND ((|IN Border Team| AND |Starting Life:4|) OR (|IN Magic Team| AND |Starting Life:4|) OR (|IN Scarlet Team| AND |Starting Life:4|) OR (|IN Ghost Team| AND |Starting Life:4|) OR (|IN Reimu Solo| AND |Starting Life:4|) OR (|IN Yukari Solo| AND |Starting Life:4|) OR (|IN Marisa Solo| AND |Starting Life:4|) OR (|IN Alice Solo| AND |Starting Life:4|) OR (|IN Sakuya Solo| AND |Starting Life:4|) OR (|IN Remilia Solo| AND |Starting Life:4|) OR (|IN Youmu Solo| AND |Starting Life:4|) OR (|IN Yuyuko Solo| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "IN Stage EX Boss Clear (Mokou)",
+    "category": [
+      "TH08 - IN"
+    ],
+    "requires": "(|Extra Stage IN|) AND (|Progressive IN Stage:3|) AND ((|IN Border Team| AND |Starting Life:6|) OR (|IN Magic Team| AND |Starting Life:6|) OR (|IN Scarlet Team| AND |Starting Life:6|) OR (|IN Ghost Team| AND |Starting Life:6|) OR (|IN Reimu Solo| AND |Starting Life:6|) OR (|IN Yukari Solo| AND |Starting Life:6|) OR (|IN Marisa Solo| AND |Starting Life:6|) OR (|IN Alice Solo| AND |Starting Life:6|) OR (|IN Sakuya Solo| AND |Starting Life:6|) OR (|IN Remilia Solo| AND |Starting Life:6|) OR (|IN Youmu Solo| AND |Starting Life:6|) OR (|IN Yuyuko Solo| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 1",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "((|MoF ReimuA|) OR (|MoF ReimuB|) OR (|MoF ReimuC|) OR (|MoF MarisaA|) OR (|MoF MarisaB|) OR (|MoF MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 1 Boss (Minoriko)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "((|MoF ReimuA|) OR (|MoF ReimuB|) OR (|MoF ReimuC|) OR (|MoF MarisaA|) OR (|MoF MarisaB|) OR (|MoF MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 2",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:1|) AND ((|MoF ReimuA|) OR (|MoF ReimuB|) OR (|MoF ReimuC|) OR (|MoF MarisaA|) OR (|MoF MarisaB|) OR (|MoF MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 2 Boss (Hina)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:1|) AND ((|MoF ReimuA| AND |Starting Life:1|) OR (|MoF ReimuB| AND |Starting Life:1|) OR (|MoF ReimuC| AND |Starting Life:1|) OR (|MoF MarisaA| AND |Starting Life:1|) OR (|MoF MarisaB| AND |Starting Life:1|) OR (|MoF MarisaC| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 3",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:2|) AND ((|MoF ReimuA| AND |Starting Life:1|) OR (|MoF ReimuB| AND |Starting Life:1|) OR (|MoF ReimuC| AND |Starting Life:1|) OR (|MoF MarisaA| AND |Starting Life:1|) OR (|MoF MarisaB| AND |Starting Life:1|) OR (|MoF MarisaC| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 3 Boss (Nitori)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:2|) AND ((|MoF ReimuA| AND |Starting Life:2|) OR (|MoF ReimuB| AND |Starting Life:2|) OR (|MoF ReimuC| AND |Starting Life:3|) OR (|MoF MarisaA| AND |Starting Life:3|) OR (|MoF MarisaB| AND |Starting Life:2|) OR (|MoF MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 4",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:3|) AND ((|MoF ReimuA| AND |Starting Life:2|) OR (|MoF ReimuB| AND |Starting Life:2|) OR (|MoF ReimuC| AND |Starting Life:2|) OR (|MoF MarisaA| AND |Starting Life:2|) OR (|MoF MarisaB| AND |Starting Life:2|) OR (|MoF MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 4 Boss (Aya)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:3|) AND ((|MoF ReimuA| AND |Starting Life:5|) OR (|MoF ReimuB| AND |Starting Life:5|) OR (|MoF ReimuC| AND |Starting Life:5|) OR (|MoF MarisaA| AND |Starting Life:6|) OR (|MoF MarisaB| AND |Starting Life:5|) OR (|MoF MarisaC| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 5",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:4|) AND ((|MoF ReimuA| AND |Starting Life:1|) OR (|MoF ReimuB| AND |Starting Life:1|) OR (|MoF ReimuC| AND |Starting Life:1|) OR (|MoF MarisaA| AND |Starting Life:2|) OR (|MoF MarisaB| AND |Starting Life:1|) OR (|MoF MarisaC| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 5 Boss (Sanae)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:4|) AND ((|MoF ReimuA| AND |Starting Life:4|) OR (|MoF ReimuB| AND |Starting Life:3|) OR (|MoF ReimuC| AND |Starting Life:4|) OR (|MoF MarisaA| AND |Starting Life:5|) OR (|MoF MarisaB| AND |Starting Life:4|) OR (|MoF MarisaC| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 6",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:5|) AND ((|MoF ReimuA|) OR (|MoF ReimuB|) OR (|MoF ReimuC|) OR (|MoF MarisaA|) OR (|MoF MarisaB|) OR (|MoF MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage 6 Boss (Kanako)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Progressive MoF Stage:5|) AND ((|MoF ReimuA| AND |Starting Life:4|) OR (|MoF ReimuB| AND |Starting Life:4|) OR (|MoF ReimuC| AND |Starting Life:5|) OR (|MoF MarisaA| AND |Starting Life:5|) OR (|MoF MarisaB| AND |Starting Life:4|) OR (|MoF MarisaC| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage EX",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Extra Stage MoF|) AND (|Progressive MoF Stage:3|) AND ((|MoF ReimuA| AND |Starting Life:1|) OR (|MoF ReimuB| AND |Starting Life:1|) OR (|MoF ReimuC| AND |Starting Life:1|) OR (|MoF MarisaA| AND |Starting Life:1|) OR (|MoF MarisaB| AND |Starting Life:1|) OR (|MoF MarisaC| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage EX Boss Spell 5 (Suwako)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Extra Stage MoF|) AND (|Progressive MoF Stage:3|) AND ((|MoF ReimuA| AND |Starting Life:3|) OR (|MoF ReimuB| AND |Starting Life:3|) OR (|MoF ReimuC| AND |Starting Life:3|) OR (|MoF MarisaA| AND |Starting Life:3|) OR (|MoF MarisaB| AND |Starting Life:3|) OR (|MoF MarisaC| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "MoF Stage EX Boss Clear (Suwako)",
+    "category": [
+      "TH10 - MoF"
+    ],
+    "requires": "(|Extra Stage MoF|) AND (|Progressive MoF Stage:3|) AND ((|MoF ReimuA| AND |Starting Life:5|) OR (|MoF ReimuB| AND |Starting Life:5|) OR (|MoF ReimuC| AND |Starting Life:5|) OR (|MoF MarisaA| AND |Starting Life:5|) OR (|MoF MarisaB| AND |Starting Life:5|) OR (|MoF MarisaC| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 1",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "((|SA ReimuA|) OR (|SA ReimuB|) OR (|SA ReimuC|) OR (|SA MarisaA|) OR (|SA MarisaB|) OR (|SA MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 1 Boss (Yamame)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "((|SA ReimuA|) OR (|SA ReimuB|) OR (|SA ReimuC|) OR (|SA MarisaA|) OR (|SA MarisaB|) OR (|SA MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 2",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:1|) AND ((|SA ReimuA|) OR (|SA ReimuB|) OR (|SA ReimuC|) OR (|SA MarisaA|) OR (|SA MarisaB|) OR (|SA MarisaC|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 2 Boss (Parsee)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:1|) AND ((|SA ReimuA| AND |Starting Life:1|) OR (|SA ReimuB| AND |Starting Life:1|) OR (|SA ReimuC| AND |Starting Life:1|) OR (|SA MarisaA| AND |Starting Life:1|) OR (|SA MarisaB| AND |Starting Life:1|) OR (|SA MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 3",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:2|) AND ((|SA ReimuA| AND |Starting Life:2|) OR (|SA ReimuB| AND |Starting Life:2|) OR (|SA ReimuC| AND |Starting Life:2|) OR (|SA MarisaA| AND |Starting Life:2|) OR (|SA MarisaB| AND |Starting Life:2|) OR (|SA MarisaC| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 3 Boss (Yuugi)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:2|) AND ((|SA ReimuA| AND |Starting Life:4|) OR (|SA ReimuB| AND |Starting Life:4|) OR (|SA ReimuC| AND |Starting Life:4|) OR (|SA MarisaA| AND |Starting Life:4|) OR (|SA MarisaB| AND |Starting Life:4|) OR (|SA MarisaC| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 4",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:3|) AND ((|SA ReimuA| AND |Starting Life:2|) OR (|SA ReimuB| AND |Starting Life:2|) OR (|SA ReimuC| AND |Starting Life:2|) OR (|SA MarisaA| AND |Starting Life:2|) OR (|SA MarisaB| AND |Starting Life:2|) OR (|SA MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 4 Boss (Satori)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:3|) AND ((|SA ReimuA| AND |Starting Life:5|) OR (|SA ReimuB| AND |Starting Life:4|) OR (|SA ReimuC| AND |Starting Life:4|) OR (|SA MarisaA| AND |Starting Life:5|) OR (|SA MarisaB| AND |Starting Life:5|) OR (|SA MarisaC| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 5",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:4|) AND ((|SA ReimuA| AND |Starting Life:3|) OR (|SA ReimuB| AND |Starting Life:3|) OR (|SA ReimuC| AND |Starting Life:2|) OR (|SA MarisaA| AND |Starting Life:2|) OR (|SA MarisaB| AND |Starting Life:2|) OR (|SA MarisaC| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 5 Boss (Orin)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:4|) AND ((|SA ReimuA| AND |Starting Life:6|) OR (|SA ReimuB| AND |Starting Life:6|) OR (|SA ReimuC| AND |Starting Life:5|) OR (|SA MarisaA| AND |Starting Life:5|) OR (|SA MarisaB| AND |Starting Life:5|) OR (|SA MarisaC| AND |Starting Life:7|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 6",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:5|) AND ((|SA ReimuA| AND |Starting Life:1|) OR (|SA ReimuB| AND |Starting Life:2|) OR (|SA ReimuC| AND |Starting Life:2|) OR (|SA MarisaA| AND |Starting Life:2|) OR (|SA MarisaB| AND |Starting Life:2|) OR (|SA MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage 6 Boss (Utsuho)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Progressive SA Stage:5|) AND ((|SA ReimuA| AND |Starting Life:5|) OR (|SA ReimuB| AND |Starting Life:6|) OR (|SA ReimuC| AND |Starting Life:6|) OR (|SA MarisaA| AND |Starting Life:6|) OR (|SA MarisaB| AND |Starting Life:6|) OR (|SA MarisaC| AND |Starting Life:7|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage EX",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Extra Stage SA|) AND (|Progressive SA Stage:3|) AND ((|SA ReimuA| AND |Starting Life:1|) OR (|SA ReimuB| AND |Starting Life:2|) OR (|SA ReimuC| AND |Starting Life:1|) OR (|SA MarisaA| AND |Starting Life:2|) OR (|SA MarisaB| AND |Starting Life:1|) OR (|SA MarisaC| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage EX Boss Spell 5 (Koishi)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Extra Stage SA|) AND (|Progressive SA Stage:3|) AND ((|SA ReimuA| AND |Starting Life:3|) OR (|SA ReimuB| AND |Starting Life:4|) OR (|SA ReimuC| AND |Starting Life:3|) OR (|SA MarisaA| AND |Starting Life:4|) OR (|SA MarisaB| AND |Starting Life:3|) OR (|SA MarisaC| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "SA Stage EX Boss Clear (Koishi)",
+    "category": [
+      "TH11 - SA"
+    ],
+    "requires": "(|Extra Stage SA|) AND (|Progressive SA Stage:3|) AND ((|SA ReimuA| AND |Starting Life:5|) OR (|SA ReimuB| AND |Starting Life:6|) OR (|SA ReimuC| AND |Starting Life:5|) OR (|SA MarisaA| AND |Starting Life:6|) OR (|SA MarisaB| AND |Starting Life:5|) OR (|SA MarisaC| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 1",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "((|UFO ReimuA|) OR (|UFO ReimuB|) OR (|UFO MarisaA|) OR (|UFO MarisaB|) OR (|UFO SanaeA|) OR (|UFO SanaeB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 1 Boss (Nazrin)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "((|UFO ReimuA|) OR (|UFO ReimuB| AND |Starting Life:1|) OR (|UFO MarisaA|) OR (|UFO MarisaB| AND |Starting Life:1|) OR (|UFO SanaeA| AND |Starting Life:1|) OR (|UFO SanaeB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 2",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:1|) AND ((|UFO ReimuA|) OR (|UFO ReimuB|) OR (|UFO MarisaA|) OR (|UFO MarisaB|) OR (|UFO SanaeA|) OR (|UFO SanaeB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 2 Boss (Kogasa)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:1|) AND ((|UFO ReimuA| AND |Starting Life:3|) OR (|UFO ReimuB| AND |Starting Life:3|) OR (|UFO MarisaA| AND |Starting Life:2|) OR (|UFO MarisaB| AND |Starting Life:3|) OR (|UFO SanaeA| AND |Starting Life:3|) OR (|UFO SanaeB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 3",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:2|) AND ((|UFO ReimuA| AND |Starting Life:2|) OR (|UFO ReimuB| AND |Starting Life:3|) OR (|UFO MarisaA| AND |Starting Life:2|) OR (|UFO MarisaB| AND |Starting Life:2|) OR (|UFO SanaeA| AND |Starting Life:3|) OR (|UFO SanaeB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 3 Boss (Ichirin)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:2|) AND ((|UFO ReimuA| AND |Starting Life:4|) OR (|UFO ReimuB| AND |Starting Life:6|) OR (|UFO MarisaA| AND |Starting Life:4|) OR (|UFO MarisaB| AND |Starting Life:5|) OR (|UFO SanaeA| AND |Starting Life:6|) OR (|UFO SanaeB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 4",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:3|) AND ((|UFO ReimuA| AND |Starting Life:2|) OR (|UFO ReimuB| AND |Starting Life:2|) OR (|UFO MarisaA| AND |Starting Life:2|) OR (|UFO MarisaB| AND |Starting Life:2|) OR (|UFO SanaeA| AND |Starting Life:2|) OR (|UFO SanaeB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 4 Boss (Murasa)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:3|) AND ((|UFO ReimuA| AND |Starting Life:5|) OR (|UFO ReimuB| AND |Starting Life:5|) OR (|UFO MarisaA| AND |Starting Life:5|) OR (|UFO MarisaB| AND |Starting Life:6|) OR (|UFO SanaeA| AND |Starting Life:6|) OR (|UFO SanaeB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 5",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:4|) AND ((|UFO ReimuA| AND |Starting Life:3|) OR (|UFO ReimuB| AND |Starting Life:3|) OR (|UFO MarisaA| AND |Starting Life:3|) OR (|UFO MarisaB| AND |Starting Life:3|) OR (|UFO SanaeA| AND |Starting Life:3|) OR (|UFO SanaeB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 5 Boss (Shou)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:4|) AND ((|UFO ReimuA| AND |Starting Life:6|) OR (|UFO ReimuB| AND |Starting Life:7|) OR (|UFO MarisaA| AND |Starting Life:6|) OR (|UFO MarisaB| AND |Starting Life:7|) OR (|UFO SanaeA| AND |Starting Life:7|) OR (|UFO SanaeB| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 6",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:5|) AND ((|UFO ReimuA| AND |Starting Life:1|) OR (|UFO ReimuB| AND |Starting Life:1|) OR (|UFO MarisaA| AND |Starting Life:1|) OR (|UFO MarisaB| AND |Starting Life:1|) OR (|UFO SanaeA| AND |Starting Life:1|) OR (|UFO SanaeB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage 6 Boss (Byakuren)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Progressive UFO Stage:5|) AND ((|UFO ReimuA| AND |Starting Life:6|) OR (|UFO ReimuB| AND |Starting Life:7|) OR (|UFO MarisaA| AND |Starting Life:6|) OR (|UFO MarisaB| AND |Starting Life:7|) OR (|UFO SanaeA| AND |Starting Life:7|) OR (|UFO SanaeB| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage EX",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Extra Stage UFO|) AND (|Progressive UFO Stage:3|) AND ((|UFO ReimuA| AND |Starting Life:2|) OR (|UFO ReimuB| AND |Starting Life:2|) OR (|UFO MarisaA| AND |Starting Life:2|) OR (|UFO MarisaB| AND |Starting Life:2|) OR (|UFO SanaeA| AND |Starting Life:2|) OR (|UFO SanaeB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage EX Boss Spell 5 (Nue)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Extra Stage UFO|) AND (|Progressive UFO Stage:3|) AND ((|UFO ReimuA| AND |Starting Life:3|) OR (|UFO ReimuB| AND |Starting Life:4|) OR (|UFO MarisaA| AND |Starting Life:3|) OR (|UFO MarisaB| AND |Starting Life:4|) OR (|UFO SanaeA| AND |Starting Life:4|) OR (|UFO SanaeB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UFO Stage EX Boss Clear (Nue)",
+    "category": [
+      "TH12 - UFO"
+    ],
+    "requires": "(|Extra Stage UFO|) AND (|Progressive UFO Stage:3|) AND ((|UFO ReimuA| AND |Starting Life:5|) OR (|UFO ReimuB| AND |Starting Life:6|) OR (|UFO MarisaA| AND |Starting Life:5|) OR (|UFO MarisaB| AND |Starting Life:6|) OR (|UFO SanaeA| AND |Starting Life:6|) OR (|UFO SanaeB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 1",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 1 Boss (Yuyuko)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 2",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:1|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 2 Boss (Kyouko)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:1|) AND ((|TD Reimu| AND |Starting Life:2|) OR (|TD Marisa| AND |Starting Life:2|) OR (|TD Sanae| AND |Starting Life:2|) OR (|TD Youmu| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 3",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:2|) AND ((|TD Reimu| AND |Starting Life:1|) OR (|TD Marisa| AND |Starting Life:1|) OR (|TD Sanae| AND |Starting Life:1|) OR (|TD Youmu| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 3 Boss (Yoshika)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:2|) AND ((|TD Reimu| AND |Starting Life:3|) OR (|TD Marisa| AND |Starting Life:3|) OR (|TD Sanae| AND |Starting Life:3|) OR (|TD Youmu| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 4",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:3|) AND ((|TD Reimu| AND |Starting Life:1|) OR (|TD Marisa| AND |Starting Life:1|) OR (|TD Sanae| AND |Starting Life:2|) OR (|TD Youmu| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 4 Boss (Seiga)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:3|) AND ((|TD Reimu| AND |Starting Life:4|) OR (|TD Marisa| AND |Starting Life:4|) OR (|TD Sanae| AND |Starting Life:5|) OR (|TD Youmu| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 5",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:4|) AND ((|TD Reimu| AND |Starting Life:2|) OR (|TD Marisa| AND |Starting Life:2|) OR (|TD Sanae| AND |Starting Life:3|) OR (|TD Youmu| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 5 Boss (Futo)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:4|) AND ((|TD Reimu| AND |Starting Life:5|) OR (|TD Marisa| AND |Starting Life:5|) OR (|TD Sanae| AND |Starting Life:6|) OR (|TD Youmu| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 6",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:5|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage 6 Boss (Miko)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Progressive TD Stage:5|) AND ((|TD Reimu| AND |Starting Life:6|) OR (|TD Marisa| AND |Starting Life:6|) OR (|TD Sanae| AND |Starting Life:7|) OR (|TD Youmu| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage EX",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Extra Stage TD|) AND (|Progressive TD Stage:3|) AND ((|TD Reimu| AND |Starting Life:1|) OR (|TD Marisa| AND |Starting Life:1|) OR (|TD Sanae| AND |Starting Life:1|) OR (|TD Youmu| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage EX Boss Spell 5 (Mamizou)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Extra Stage TD|) AND (|Progressive TD Stage:3|) AND ((|TD Reimu| AND |Starting Life:2|) OR (|TD Marisa| AND |Starting Life:2|) OR (|TD Sanae| AND |Starting Life:3|) OR (|TD Youmu| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "TD Stage EX Boss Clear (Mamizou)",
+    "category": [
+      "TH13 - TD"
+    ],
+    "requires": "(|Extra Stage TD|) AND (|Progressive TD Stage:3|) AND ((|TD Reimu| AND |Starting Life:4|) OR (|TD Marisa| AND |Starting Life:4|) OR (|TD Sanae| AND |Starting Life:5|) OR (|TD Youmu| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 1",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "((|DDC ReimuA|) OR (|DDC ReimuB|) OR (|DDC MarisaA|) OR (|DDC MarisaB|) OR (|DDC SakuyaA|) OR (|DDC SakuyaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 1 Boss (Wakasagihime)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "((|DDC ReimuA|) OR (|DDC ReimuB|) OR (|DDC MarisaA|) OR (|DDC MarisaB|) OR (|DDC SakuyaA|) OR (|DDC SakuyaB|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 2",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:1|) AND ((|DDC ReimuA|) OR (|DDC ReimuB|) OR (|DDC MarisaA| AND |Starting Life:1|) OR (|DDC MarisaB|) OR (|DDC SakuyaA|) OR (|DDC SakuyaB| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 2 Boss (Sekibanki)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:1|) AND ((|DDC ReimuA|) OR (|DDC ReimuB| AND |Starting Life:1|) OR (|DDC MarisaA| AND |Starting Life:2|) OR (|DDC MarisaB| AND |Starting Life:1|) OR (|DDC SakuyaA| AND |Starting Life:1|) OR (|DDC SakuyaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 3",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:2|) AND ((|DDC ReimuA| AND |Starting Life:1|) OR (|DDC ReimuB| AND |Starting Life:2|) OR (|DDC MarisaA| AND |Starting Life:2|) OR (|DDC MarisaB| AND |Starting Life:2|) OR (|DDC SakuyaA| AND |Starting Life:1|) OR (|DDC SakuyaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 3 Boss (Kagerou)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:2|) AND ((|DDC ReimuA| AND |Starting Life:4|) OR (|DDC ReimuB| AND |Starting Life:5|) OR (|DDC MarisaA| AND |Starting Life:6|) OR (|DDC MarisaB| AND |Starting Life:5|) OR (|DDC SakuyaA| AND |Starting Life:4|) OR (|DDC SakuyaB| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 4",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:3|) AND ((|DDC ReimuA| AND |Starting Life:2|) OR (|DDC ReimuB| AND |Starting Life:2|) OR (|DDC MarisaA| AND |Starting Life:3|) OR (|DDC MarisaB| AND |Starting Life:2|) OR (|DDC SakuyaA| AND |Starting Life:2|) OR (|DDC SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 4 Boss (Tsukumo Sister)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:3|) AND ((|DDC ReimuA| AND |Starting Life:5|) OR (|DDC ReimuB| AND |Starting Life:6|) OR (|DDC MarisaA| AND |Starting Life:7|) OR (|DDC MarisaB| AND |Starting Life:6|) OR (|DDC SakuyaA| AND |Starting Life:5|) OR (|DDC SakuyaB| AND |Starting Life:7|))"
+  },
+  {
+    "name": "DDC Stage 5",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:4|) AND ((|DDC ReimuA| AND |Starting Life:2|) OR (|DDC ReimuB| AND |Starting Life:2|) OR (|DDC MarisaA| AND |Starting Life:2|) OR (|DDC MarisaB| AND |Starting Life:2|) OR (|DDC SakuyaA| AND |Starting Life:2|) OR (|DDC SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 5 Boss (Seija)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:4|) AND ((|DDC ReimuA| AND |Starting Life:5|) OR (|DDC ReimuB| AND |Starting Life:6|) OR (|DDC MarisaA| AND |Starting Life:6|) OR (|DDC MarisaB| AND |Starting Life:6|) OR (|DDC SakuyaA| AND |Starting Life:5|) OR (|DDC SakuyaB| AND |Starting Life:7|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 6",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:5|) AND ((|DDC ReimuA| AND |Starting Life:1|) OR (|DDC ReimuB| AND |Starting Life:2|) OR (|DDC MarisaA| AND |Starting Life:2|) OR (|DDC MarisaB| AND |Starting Life:2|) OR (|DDC SakuyaA| AND |Starting Life:2|) OR (|DDC SakuyaB| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage 6 Boss (Sukuna)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Progressive DDC Stage:5|) AND ((|DDC ReimuA| AND |Starting Life:6|) OR (|DDC ReimuB| AND |Starting Life:7|) OR (|DDC MarisaA| AND |Starting Life:8|) OR (|DDC MarisaB| AND |Starting Life:7|) OR (|DDC SakuyaA| AND |Starting Life:7|) OR (|DDC SakuyaB| AND |Starting Life:8|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage EX",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Extra Stage DDC|) AND (|Progressive DDC Stage:3|) AND ((|DDC ReimuA| AND |Starting Life:2|) OR (|DDC ReimuB| AND |Starting Life:2|) OR (|DDC MarisaA| AND |Starting Life:3|) OR (|DDC MarisaB| AND |Starting Life:2|) OR (|DDC SakuyaA| AND |Starting Life:2|) OR (|DDC SakuyaB| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage EX Boss Spell 5 (Raiko)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Extra Stage DDC|) AND (|Progressive DDC Stage:3|) AND ((|DDC ReimuA| AND |Starting Life:4|) OR (|DDC ReimuB| AND |Starting Life:4|) OR (|DDC MarisaA| AND |Starting Life:5|) OR (|DDC MarisaB| AND |Starting Life:4|) OR (|DDC SakuyaA| AND |Starting Life:4|) OR (|DDC SakuyaB| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "DDC Stage EX Boss Clear (Raiko)",
+    "category": [
+      "TH14 - DDC"
+    ],
+    "requires": "(|Extra Stage DDC|) AND (|Progressive DDC Stage:3|) AND ((|DDC ReimuA| AND |Starting Life:6|) OR (|DDC ReimuB| AND |Starting Life:7|) OR (|DDC MarisaA| AND |Starting Life:8|) OR (|DDC MarisaB| AND |Starting Life:7|) OR (|DDC SakuyaA| AND |Starting Life:6|) OR (|DDC SakuyaB| AND |Starting Life:8|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 1",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "((|LoLK Reimu| AND |Starting Life:1|) OR (|LoLK Marisa| AND |Starting Life:2|) OR (|LoLK Sanae| AND |Starting Life:1|) OR (|LoLK Reisen| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 1 Boss (Seiran)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "((|LoLK Reimu| AND |Starting Life:2|) OR (|LoLK Marisa| AND |Starting Life:3|) OR (|LoLK Sanae| AND |Starting Life:3|) OR (|LoLK Reisen| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 2",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:1|) AND ((|LoLK Reimu| AND |Starting Life:1|) OR (|LoLK Marisa| AND |Starting Life:2|) OR (|LoLK Sanae| AND |Starting Life:1|) OR (|LoLK Reisen| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 2 Boss (Ringo)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:1|) AND ((|LoLK Reimu| AND |Starting Life:4|) OR (|LoLK Marisa| AND |Starting Life:5|) OR (|LoLK Sanae| AND |Starting Life:5|) OR (|LoLK Reisen| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 3",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:2|) AND ((|LoLK Reimu| AND |Starting Life:2|) OR (|LoLK Marisa| AND |Starting Life:2|) OR (|LoLK Sanae| AND |Starting Life:2|) OR (|LoLK Reisen| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 3 Boss (Doremy)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:2|) AND ((|LoLK Reimu| AND |Starting Life:6|) OR (|LoLK Marisa| AND |Starting Life:6|) OR (|LoLK Sanae| AND |Starting Life:6|) OR (|LoLK Reisen| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 4",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:3|) AND ((|LoLK Reimu| AND |Starting Life:1|) OR (|LoLK Marisa| AND |Starting Life:1|) OR (|LoLK Sanae| AND |Starting Life:1|) OR (|LoLK Reisen| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 4 Boss (Sagume)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:3|) AND ((|LoLK Reimu| AND |Starting Life:4|) OR (|LoLK Marisa| AND |Starting Life:4|) OR (|LoLK Sanae| AND |Starting Life:4|) OR (|LoLK Reisen| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 5",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:4|) AND ((|LoLK Reimu| AND |Starting Life:2|) OR (|LoLK Marisa| AND |Starting Life:4|) OR (|LoLK Sanae| AND |Starting Life:2|) OR (|LoLK Reisen| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 5 Boss (Clownpiece)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:4|) AND ((|LoLK Reimu| AND |Starting Life:6|) OR (|LoLK Marisa| AND |Starting Life:7|) OR (|LoLK Sanae| AND |Starting Life:6|) OR (|LoLK Reisen| AND |Starting Life:7|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 6",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:5|) AND ((|LoLK Reimu| AND |Starting Life:1|) OR (|LoLK Marisa| AND |Starting Life:1|) OR (|LoLK Sanae| AND |Starting Life:1|) OR (|LoLK Reisen| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage 6 Boss (Junko)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Progressive LoLK Stage:5|) AND ((|LoLK Reimu| AND |Starting Life:9|) OR (|LoLK Marisa| AND |Starting Life:9|) OR (|LoLK Sanae| AND |Starting Life:9|) OR (|LoLK Reisen| AND |Starting Life:9|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage EX",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Extra Stage LoLK|) AND (|Progressive LoLK Stage:3|) AND ((|LoLK Reimu| AND |Starting Life:2|) OR (|LoLK Marisa| AND |Starting Life:3|) OR (|LoLK Sanae| AND |Starting Life:2|) OR (|LoLK Reisen| AND |Starting Life:3|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage EX Boss Spell 5 (Hecatia)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Extra Stage LoLK|) AND (|Progressive LoLK Stage:3|) AND ((|LoLK Reimu| AND |Starting Life:5|) OR (|LoLK Marisa| AND |Starting Life:6|) OR (|LoLK Sanae| AND |Starting Life:5|) OR (|LoLK Reisen| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "LoLK Stage EX Boss Clear (Hecatia)",
+    "category": [
+      "TH15 - LoLK"
+    ],
+    "requires": "(|Extra Stage LoLK|) AND (|Progressive LoLK Stage:3|) AND ((|LoLK Reimu| AND |Starting Life:8|) OR (|LoLK Marisa| AND |Starting Life:9|) OR (|LoLK Sanae| AND |Starting Life:8|) OR (|LoLK Reisen| AND |Starting Life:9|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 1",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "((|HSiFS Reimu|) OR (|HSiFS Marisa|) OR (|HSiFS Cirno|) OR (|HSiFS Aya|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 1 Boss (Eternity Larva)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "((|HSiFS Reimu|) OR (|HSiFS Marisa|) OR (|HSiFS Cirno|) OR (|HSiFS Aya|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 2",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:1|) AND ((|HSiFS Reimu| AND |Starting Life:1|) OR (|HSiFS Marisa| AND |Starting Life:1|) OR (|HSiFS Cirno| AND |Starting Life:1|) OR (|HSiFS Aya| AND |Starting Life:1|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 2 Boss (Nemuno)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:1|) AND ((|HSiFS Reimu| AND |Starting Life:2|) OR (|HSiFS Marisa| AND |Starting Life:2|) OR (|HSiFS Cirno| AND |Starting Life:2|) OR (|HSiFS Aya| AND |Starting Life:2|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 3",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:2|) AND ((|HSiFS Reimu| AND |Starting Life:1|) OR (|HSiFS Marisa| AND |Starting Life:1|) OR (|HSiFS Cirno| AND |Starting Life:1|) OR (|HSiFS Aya| AND |Starting Life:1|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 3 Boss (Aunn)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:2|) AND ((|HSiFS Reimu| AND |Starting Life:2|) OR (|HSiFS Marisa| AND |Starting Life:2|) OR (|HSiFS Cirno| AND |Starting Life:2|) OR (|HSiFS Aya| AND |Starting Life:2|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 4",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:3|) AND ((|HSiFS Reimu| AND |Starting Life:3|) OR (|HSiFS Marisa| AND |Starting Life:3|) OR (|HSiFS Cirno| AND |Starting Life:3|) OR (|HSiFS Aya| AND |Starting Life:3|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 4 Boss (Narumi)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:3|) AND ((|HSiFS Reimu| AND |Starting Life:6|) OR (|HSiFS Marisa| AND |Starting Life:6|) OR (|HSiFS Cirno| AND |Starting Life:6|) OR (|HSiFS Aya| AND |Starting Life:6|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 5",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:4|) AND ((|HSiFS Reimu| AND |Starting Life:2|) OR (|HSiFS Marisa| AND |Starting Life:3|) OR (|HSiFS Cirno| AND |Starting Life:2|) OR (|HSiFS Aya| AND |Starting Life:3|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 5 Boss (Satono & Mai)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:4|) AND ((|HSiFS Reimu| AND |Starting Life:7|) OR (|HSiFS Marisa| AND |Starting Life:8|) OR (|HSiFS Cirno| AND |Starting Life:8|) OR (|HSiFS Aya| AND |Starting Life:8|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 6",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:5|) AND ((|HSiFS Reimu| AND |Starting Life:1|) OR (|HSiFS Marisa| AND |Starting Life:1|) OR (|HSiFS Cirno| AND |Starting Life:1|) OR (|HSiFS Aya| AND |Starting Life:1|)) AND (|HSiFS Spring| OR |HSiFS Summer| OR |HSiFS Fall| OR |HSiFS Winter|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage 6 Boss (Okina)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Progressive HSiFS Stage:5|) AND ((|HSiFS Spring| AND |Starting Life:9|) OR (|HSiFS Winter| AND |Starting Life:7|) OR (|HSiFS Summer| AND |Starting Life:8|) OR (|HSiFS Fall| AND |Starting Life:7|)) AND (|HSiFS Reimu| OR |HSiFS Marisa| OR |HSiFS Aya| OR |HSiFS Cirno|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage EX",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Extra Stage HSiFS|) AND (|Progressive HSiFS Stage:3|) AND ((|HSiFS Reimu| AND |Starting Life:1|) OR (|HSiFS Marisa| AND |Starting Life:2|) OR (|HSiFS Cirno| AND |Starting Life:2|) OR (|HSiFS Aya| AND |Starting Life:2|)) AND (|HSiFS Dog Days|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage EX Boss Spell 5 (Okina)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Extra Stage HSiFS|) AND (|Progressive HSiFS Stage:3|) AND ((|HSiFS Reimu| AND |Starting Life:3|) OR (|HSiFS Marisa| AND |Starting Life:4|) OR (|HSiFS Cirno| AND |Starting Life:4|) OR (|HSiFS Aya| AND |Starting Life:5|)) AND (|HSiFS Dog Days|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "HSiFS Stage EX Boss Clear (Okina)",
+    "category": [
+      "TH16 - HSiFS"
+    ],
+    "requires": "(|Extra Stage HSiFS|) AND (|Progressive HSiFS Stage:3|) AND ((|HSiFS Reimu| AND |Starting Life:5|) OR (|HSiFS Marisa| AND |Starting Life:6|) OR (|HSiFS Cirno| AND |Starting Life:7|) OR (|HSiFS Aya| AND |Starting Life:7|)) AND (|HSiFS Dog Days|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 1",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "((|WBaWC Wolf|) OR (|WBaWC Otter|) OR (|WBaWC Eagle|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 1 Boss (Eika)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "((|WBaWC Wolf|) OR (|WBaWC Otter| AND |Starting Life:1|) OR (|WBaWC Eagle| AND |Starting Life:1|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 2",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:1|) AND ((|WBaWC Wolf|) OR (|WBaWC Otter| AND |Starting Life:1|) OR (|WBaWC Eagle|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 2 Boss (Urumi)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:1|) AND ((|WBaWC Wolf| AND |Starting Life:2|) OR (|WBaWC Otter| AND |Starting Life:4|) OR (|WBaWC Eagle| AND |Starting Life:3|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 3",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:2|) AND ((|WBaWC Wolf|) OR (|WBaWC Otter| AND |Starting Life:1|) OR (|WBaWC Eagle|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 3 Boss (Kutaka)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:2|) AND ((|WBaWC Wolf| AND |Starting Life:3|) OR (|WBaWC Otter| AND |Starting Life:5|) OR (|WBaWC Eagle| AND |Starting Life:3|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 4",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:3|) AND ((|WBaWC Wolf| AND |Starting Life:2|) OR (|WBaWC Otter| AND |Starting Life:3|) OR (|WBaWC Eagle| AND |Starting Life:2|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 4 Boss (Yachie)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:3|) AND ((|WBaWC Wolf| AND |Starting Life:4|) OR (|WBaWC Otter| AND |Starting Life:6|) OR (|WBaWC Eagle| AND |Starting Life:5|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 5",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:4|) AND ((|WBaWC Wolf| AND |Starting Life:1|) OR (|WBaWC Otter| AND |Starting Life:2|) OR (|WBaWC Eagle| AND |Starting Life:1|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 5 Boss (Mayumi)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:4|) AND ((|WBaWC Wolf| AND |Starting Life:4|) OR (|WBaWC Otter| AND |Starting Life:6|) OR (|WBaWC Eagle| AND |Starting Life:5|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 6",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:5|) AND ((|WBaWC Wolf| AND |Starting Life:1|) OR (|WBaWC Otter| AND |Starting Life:2|) OR (|WBaWC Eagle| AND |Starting Life:2|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage 6 Boss (Keiki)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Progressive WBaWC Stage:5|) AND ((|WBaWC Wolf| AND |Starting Life:7|) OR (|WBaWC Otter| AND |Starting Life:8|) OR (|WBaWC Eagle| AND |Starting Life:8|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage EX",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Extra Stage WBaWC|) AND (|Progressive WBaWC Stage:3|) AND ((|WBaWC Wolf| AND |Starting Life:1|) OR (|WBaWC Otter| AND |Starting Life:1|) OR (|WBaWC Eagle| AND |Starting Life:1|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage EX Boss Spell 5 (Saki)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Extra Stage WBaWC|) AND (|Progressive WBaWC Stage:3|) AND ((|WBaWC Wolf| AND |Starting Life:3|) OR (|WBaWC Otter| AND |Starting Life:3|) OR (|WBaWC Eagle| AND |Starting Life:3|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "WBaWC Stage EX Boss Clear (Saki)",
+    "category": [
+      "TH17 - WBaWC"
+    ],
+    "requires": "(|Extra Stage WBaWC|) AND (|Progressive WBaWC Stage:3|) AND ((|WBaWC Wolf| AND |Starting Life:5|) OR (|WBaWC Otter| AND |Starting Life:6|) OR (|WBaWC Eagle| AND |Starting Life:5|)) AND (|WBaWC Reimu| OR |WBaWC Marisa| OR |WBaWC Youmu|)",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 1",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "((|UM Reimu|) OR (|UM Marisa|) OR (|UM Sakuya|) OR (|UM Sanae|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 1 Boss (Mike)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "((|UM Reimu|) OR (|UM Marisa|) OR (|UM Sakuya|) OR (|UM Sanae|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 2",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:1|) AND ((|UM Reimu|) OR (|UM Marisa| AND |Starting Life:1|) OR (|UM Sakuya|) OR (|UM Sanae|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 2 Boss (Takane)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:1|) AND ((|UM Reimu| AND |Starting Life:1|) OR (|UM Marisa| AND |Starting Life:2|) OR (|UM Sakuya| AND |Starting Life:1|) OR (|UM Sanae| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 3",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:2|) AND ((|UM Reimu| AND |Starting Life:1|) OR (|UM Marisa| AND |Starting Life:2|) OR (|UM Sakuya| AND |Starting Life:1|) OR (|UM Sanae| AND |Starting Life:1|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 3 Boss (Sannyo)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:2|) AND ((|UM Reimu| AND |Starting Life:5|) OR (|UM Marisa| AND |Starting Life:6|) OR (|UM Sakuya| AND |Starting Life:5|) OR (|UM Sanae| AND |Starting Life:5|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 4",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:3|) AND ((|UM Reimu| AND |Starting Life:2|) OR (|UM Marisa| AND |Starting Life:3|) OR (|UM Sakuya| AND |Starting Life:3|) OR (|UM Sanae| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 4 Boss (Misumaru)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:3|) AND ((|UM Reimu| AND |Starting Life:6|) OR (|UM Marisa| AND |Starting Life:7|) OR (|UM Sakuya| AND |Starting Life:6|) OR (|UM Sanae| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 5",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:4|) AND ((|UM Reimu| AND |Starting Life:2|) OR (|UM Marisa| AND |Starting Life:3|) OR (|UM Sakuya| AND |Starting Life:2|) OR (|UM Sanae| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 5 Boss (Megumu)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:4|) AND ((|UM Reimu| AND |Starting Life:6|) OR (|UM Marisa| AND |Starting Life:7|) OR (|UM Sakuya| AND |Starting Life:6|) OR (|UM Sanae| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 6",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:5|) AND ((|UM Reimu| AND |Starting Life:1|) OR (|UM Marisa| AND |Starting Life:3|) OR (|UM Sakuya| AND |Starting Life:2|) OR (|UM Sanae| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage 6 Boss (Chimata)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Progressive UM Stage:5|) AND ((|UM Reimu| AND |Starting Life:7|) OR (|UM Marisa| AND |Starting Life:9|) OR (|UM Sakuya| AND |Starting Life:8|) OR (|UM Sanae| AND |Starting Life:8|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage EX",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Extra Stage UM|) AND (|Progressive UM Stage:3|) AND ((|UM Reimu| AND |Starting Life:2|) OR (|UM Marisa| AND |Starting Life:3|) OR (|UM Sakuya| AND |Starting Life:2|) OR (|UM Sanae| AND |Starting Life:2|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage EX Boss Spell 5 (Momoyo)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Extra Stage UM|) AND (|Progressive UM Stage:3|) AND ((|UM Reimu| AND |Starting Life:4|) OR (|UM Marisa| AND |Starting Life:5|) OR (|UM Sakuya| AND |Starting Life:4|) OR (|UM Sanae| AND |Starting Life:4|))",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "UM Stage EX Boss Clear (Momoyo)",
+    "category": [
+      "TH18 - UM"
+    ],
+    "requires": "(|Extra Stage UM|) AND (|Progressive UM Stage:3|) AND ((|UM Reimu| AND |Starting Life:6|) OR (|UM Marisa| AND |Starting Life:7|) OR (|UM Sakuya| AND |Starting Life:6|) OR (|UM Sanae| AND |Starting Life:6|))",
+    "region": "Gensokyo"
+  },
+  {
+    "victory": true,
+    "name": "Victory",
+    "category": [
+      "Meta"
+    ],
+    "requires": "|Starting Life:9| AND |Progressive EoSD Stage:5| AND |Progressive PCB Stage:5| AND |Progressive IN Stage:5| AND |Progressive MoF Stage:5| AND |Progressive SA Stage:5| AND |Progressive UFO Stage:5| AND |Progressive TD Stage:5| AND |Progressive DDC Stage:5| AND |Progressive LoLK Stage:5| AND |Progressive HSiFS Stage:5| AND |Progressive WBaWC Stage:5| AND |Progressive UM Stage:5|",
+    "region": "Gensokyo"
+  },
+  {
+    "name": "Free Item",
+    "category": [
+      "Meta"
+    ],
+    "requires": [],
+    "region": "Gensokyo"
+  },
+  {
+    "name": "Free Useful",
+    "category": [
+      "Meta"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Useful"
+    ],
+    "region": "Gensokyo"
+  }
+]

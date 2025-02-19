@@ -1,0 +1,826 @@
+[
+  {
+    "count": 1,
+    "name": "EoSD ReimuA",
+    "category": [
+      "EoSD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "EoSD ReimuB",
+    "category": [
+      "EoSD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "EoSD MarisaA",
+    "category": [
+      "EoSD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "EoSD MarisaB",
+    "category": [
+      "EoSD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB ReimuA",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB ReimuB",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB MarisaA",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB MarisaB",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB SakuyaA",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "PCB SakuyaB",
+    "category": [
+      "PCB Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Border Team",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Magic Team",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Scarlet Team",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Ghost Team",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Reimu Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Yukari Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Marisa Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Alice Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Sakuya Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Remilia Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Youmu Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "IN Yuyuko Solo",
+    "category": [
+      "IN Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF ReimuA",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF ReimuB",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF ReimuC",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF MarisaA",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF MarisaB",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "MoF MarisaC",
+    "category": [
+      "MoF Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA ReimuA",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA ReimuB",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA ReimuC",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA MarisaA",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA MarisaB",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "SA MarisaC",
+    "category": [
+      "SA Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO ReimuA",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO ReimuB",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO MarisaA",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO MarisaB",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO SanaeA",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UFO SanaeB",
+    "category": [
+      "UFO Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TD Reimu",
+    "category": [
+      "TD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TD Marisa",
+    "category": [
+      "TD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TD Sanae",
+    "category": [
+      "TD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "TD Youmu",
+    "category": [
+      "TD Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC ReimuA",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC ReimuB",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC MarisaA",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC MarisaB",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC SakuyaA",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "DDC SakuyaB",
+    "category": [
+      "DDC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LoLK Reimu",
+    "category": [
+      "LoLK Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LoLK Marisa",
+    "category": [
+      "LoLK Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LoLK Sanae",
+    "category": [
+      "LoLK Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "LoLK Reisen",
+    "category": [
+      "LoLK Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Reimu",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Marisa",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Cirno",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Aya",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Spring",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Summer",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Fall",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Winter",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "HSiFS Dog Days",
+    "category": [
+      "HSiFS Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Reimu",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Marisa",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Youmu",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Wolf",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Otter",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "WBaWC Eagle",
+    "category": [
+      "WBaWC Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UM Reimu",
+    "category": [
+      "UM Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UM Marisa",
+    "category": [
+      "UM Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UM Sakuya",
+    "category": [
+      "UM Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "UM Sanae",
+    "category": [
+      "UM Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": "9",
+    "name": "Starting Life",
+    "category": [
+      "Useful"
+    ],
+    "progression": true
+  },
+  {
+    "count": "4",
+    "name": "Allow Locked Shot",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "6",
+    "name": "Bombs Allowed",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Prevent Power Loss",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Start From Boss",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "10",
+    "name": "Ultramarine Orb Elixir",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive EoSD Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive PCB Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive IN Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive MoF Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive SA Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive UFO Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive TD Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive DDC Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive LoLK Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive HSiFS Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive WBaWC Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "5",
+    "name": "Progressive UM Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage EoSD",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": "2",
+    "name": "Extra Stage PCB",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage IN",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage MoF",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage SA",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage UFO",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage TD",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage DDC",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage LoLK",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage HSiFS",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage WBaWC",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage UM",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  }
+]
