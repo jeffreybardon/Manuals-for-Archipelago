@@ -72,7 +72,7 @@
     "category": [
       "TH06 - EoSD"
     ],
-    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:2|) OR (|EoSD ReimuB| AND |Starting Life:2|) OR (|EoSD MarisaA| AND |Starting Life:2|) OR (|EoSD MarisaB| AND |Starting Life:2|))",
+    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:3|) OR (|EoSD ReimuB| AND |Starting Life:3|) OR (|EoSD MarisaA| AND |Starting Life:3|) OR (|EoSD MarisaB| AND |Starting Life:3|))",
     "region": "Gensokyo"
   },
   {
@@ -80,7 +80,7 @@
     "category": [
       "TH06 - EoSD"
     ],
-    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:5|) OR (|EoSD ReimuB| AND |Starting Life:5|) OR (|EoSD MarisaA| AND |Starting Life:6|) OR (|EoSD MarisaB| AND |Starting Life:5|))",
+    "requires": "(|Progressive EoSD Stage:3|) AND ((|EoSD ReimuA| AND |Starting Life:6|) OR (|EoSD ReimuB| AND |Starting Life:6|) OR (|EoSD MarisaA| AND |Starting Life:7|) OR (|EoSD MarisaB| AND |Starting Life:6|))",
     "region": "Gensokyo"
   },
   {
@@ -392,7 +392,7 @@
     "category": [
       "TH08 - IN"
     ],
-    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:5|) OR (|IN Magic Team| AND |Starting Life:5|) OR (|IN Scarlet Team| AND |Starting Life:5|) OR (|IN Ghost Team| AND |Starting Life:5|) OR (|IN Reimu Solo| AND |Starting Life:7|) OR (|IN Yukari Solo| AND |Starting Life:7|) OR (|IN Marisa Solo| AND |Starting Life:6|) OR (|IN Alice Solo| AND |Starting Life:8|) OR (|IN Sakuya Solo| AND |Starting Life:7|) OR (|IN Remilia Solo| AND |Starting Life:7|) OR (|IN Youmu Solo| AND |Starting Life:6|) OR (|IN Yuyuko Solo| AND |Starting Life:8|))",
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:6|) OR (|IN Magic Team| AND |Starting Life:6|) OR (|IN Scarlet Team| AND |Starting Life:6|) OR (|IN Ghost Team| AND |Starting Life:6|) OR (|IN Reimu Solo| AND |Starting Life:7|) OR (|IN Yukari Solo| AND |Starting Life:7|) OR (|IN Marisa Solo| AND |Starting Life:7|) OR (|IN Alice Solo| AND |Starting Life:8|) OR (|IN Sakuya Solo| AND |Starting Life:7|) OR (|IN Remilia Solo| AND |Starting Life:7|) OR (|IN Youmu Solo| AND |Starting Life:7|) OR (|IN Yuyuko Solo| AND |Starting Life:8|))",
     "region": "Gensokyo"
   },
   {
@@ -408,7 +408,7 @@
     "category": [
       "TH08 - IN"
     ],
-    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:7|) OR (|IN Magic Team| AND |Starting Life:7|) OR (|IN Scarlet Team| AND |Starting Life:7|) OR (|IN Ghost Team| AND |Starting Life:7|) OR (|IN Reimu Solo| AND |Starting Life:9|) OR (|IN Yukari Solo| AND |Starting Life:8|) OR (|IN Marisa Solo| AND |Starting Life:8|) OR (|IN Alice Solo| AND |Starting Life:9|) OR (|IN Sakuya Solo| AND |Starting Life:9|) OR (|IN Remilia Solo| AND |Starting Life:8|) OR (|IN Youmu Solo| AND |Starting Life:8|) OR (|IN Yuyuko Solo| AND |Starting Life:9|))",
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team| AND |Starting Life:8|) OR (|IN Magic Team| AND |Starting Life:8|) OR (|IN Scarlet Team| AND |Starting Life:8|) OR (|IN Ghost Team| AND |Starting Life:8|) OR (|IN Reimu Solo| AND |Starting Life:9|) OR (|IN Yukari Solo| AND |Starting Life:8|) OR (|IN Marisa Solo| AND |Starting Life:8|) OR (|IN Alice Solo| AND |Starting Life:9|) OR (|IN Sakuya Solo| AND |Starting Life:9|) OR (|IN Remilia Solo| AND |Starting Life:8|) OR (|IN Youmu Solo| AND |Starting Life:8|) OR (|IN Yuyuko Solo| AND |Starting Life:9|))",
     "region": "Gensokyo"
   },
   {
@@ -1047,7 +1047,7 @@
     "category": [
       "TH15 - LoLK"
     ],
-    "requires": "((|LoLK Reimu| AND |Starting Life:2|) OR (|LoLK Marisa| AND |Starting Life:3|) OR (|LoLK Sanae| AND |Starting Life:3|) OR (|LoLK Reisen| AND |Starting Life:3|))",
+    "requires": "((|LoLK Reimu| AND |Starting Life:3|) OR (|LoLK Marisa| AND |Starting Life:4|) OR (|LoLK Sanae| AND |Starting Life:3|) OR (|LoLK Reisen| AND |Starting Life:4|))",
     "region": "Gensokyo"
   },
   {
