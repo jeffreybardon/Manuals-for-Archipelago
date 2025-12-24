@@ -1022,7 +1022,7 @@
     "region": "Gensokyo"
   },
   {
-    "name": "DDC Stage 6 Boss (Sukuna)",
+    "name": "DDC Stage 6 Boss (Shinmyoumaru)",
     "category": [
       "TH14 - DDC"
     ],
@@ -1654,15 +1654,6 @@
     "requires": "(|Extra Stage FW|) AND (|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:7|))"
   },
   {
-    "victory": true,
-    "name": "Victory",
-    "category": [
-      "Meta"
-    ],
-    "requires": "|Starting Life:9| AND |Progressive EoSD Stage:5| AND |Progressive PCB Stage:5| AND |Progressive IN Stage:5| AND |Progressive MoF Stage:5| AND |Progressive SA Stage:5| AND |Progressive UFO Stage:5| AND |Progressive TD Stage:5| AND |Progressive DDC Stage:5| AND |Progressive LoLK Stage:5| AND |Progressive HSiFS Stage:5| AND |Progressive WBaWC Stage:5| AND |Progressive UM Stage:5| AND |Progressive FW Stage:5|",
-    "region": "Gensokyo"
-  },
-  {
     "name": "Unseasonable Butterfly Storm",
     "region": "Gensokyo",
     "category": [
@@ -1861,5 +1852,14 @@
       "Spellcard"
     ],
     "requires": "(|Extra Stage TD|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "victory": true,
+    "name": "Victory",
+    "category": [
+      "Meta"
+    ],
+    "requires": "|Starting Life:9| AND |Progressive EoSD Stage:5| AND |Progressive PCB Stage:5| AND |Progressive IN Stage:5| AND |Progressive MoF Stage:5| AND |Progressive SA Stage:5| AND |Progressive UFO Stage:5| AND |Progressive TD Stage:5| AND |Progressive DDC Stage:5| AND |Progressive LoLK Stage:5| AND |Progressive HSiFS Stage:5| AND |Progressive WBaWC Stage:5| AND |Progressive UM Stage:5| AND |Progressive FW Stage:5|",
+    "region": "Gensokyo"
   }
 ]
