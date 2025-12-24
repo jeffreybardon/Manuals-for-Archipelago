@@ -20,6 +20,25 @@
     "region": "Gensokyo"
   },
   {
+    "name": "Free Item",
+    "category": [
+      "Meta"
+    ],
+    "requires": [],
+    "region": "Gensokyo"
+  },
+  {
+    "name": "Free Useful",
+    "category": [
+      "Meta"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Useful"
+    ],
+    "region": "Gensokyo"
+  },
+  {
     "name": "EoSD Stage 1",
     "category": [
       "TH06 - EoSD"
@@ -1515,31 +1534,332 @@
     "region": "Gensokyo"
   },
   {
+    "region": "Gensokyo",
+    "name": "FW Stage 1",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:1|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:1|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:1|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:1|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:1|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:1|))"
+  },
+  {
+    "name": "FW Stage 1 Boss (Ubame)",
+    "region": "Gensokyo",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:2|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 2",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:1|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:2|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 2 Boss (Chimi)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:1|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:5|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:5|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:5|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:5|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:4|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 3",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:2|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:3|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 3 Boss (Nareko)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:2|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:6|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 4",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:3|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 4 Boss (Yuiman)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:7|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 5",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:4|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:3|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 5 Boss (Toyohime)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:4|) AND (|FW Hyper Breaks|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:7|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 6",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:5|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:3|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage 6 Boss (Ariya)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Progressive FW Stage:5|) AND (|FW Hyper Breaks|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:9|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage EX",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Extra Stage FW|) AND (|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:3|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:2|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:3|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:2|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:2|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage EX Boss Spell 5 (Nina)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Extra Stage FW|) AND (|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:5|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:6|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:4|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:5|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:5|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:4|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:6|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:4|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "FW Stage EX Boss Clear (Nina)",
+    "category": [
+      "TH20 - FW"
+    ],
+    "requires": "(|Extra Stage FW|) AND (|Progressive FW Stage:3|) AND ((|FW Reimu|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Reimu|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Reimu|) AND (|FW Beast Hardness| AND |Starting Life:7|) OR (|FW Reimu|) AND (|FW Shintoism Wind| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Scarlet Devil| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Creature Red| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Snow Blossom| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Blue Season| AND |Starting Life:8|) OR (|FW Marisa|) AND (|FW Yellow Subterranean| AND |Starting Life:7|) OR (|FW Marisa|) AND (|FW Imperishable Moon| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Beast Hardness| AND |Starting Life:9|) OR (|FW Marisa|) AND (|FW Shintoism Wind| AND |Starting Life:7|))"
+  },
+  {
     "victory": true,
     "name": "Victory",
     "category": [
       "Meta"
     ],
-    "requires": "|Starting Life:9| AND |Progressive EoSD Stage:5| AND |Progressive PCB Stage:5| AND |Progressive IN Stage:5| AND |Progressive MoF Stage:5| AND |Progressive SA Stage:5| AND |Progressive UFO Stage:5| AND |Progressive TD Stage:5| AND |Progressive DDC Stage:5| AND |Progressive LoLK Stage:5| AND |Progressive HSiFS Stage:5| AND |Progressive WBaWC Stage:5| AND |Progressive UM Stage:5|",
+    "requires": "|Starting Life:9| AND |Progressive EoSD Stage:5| AND |Progressive PCB Stage:5| AND |Progressive IN Stage:5| AND |Progressive MoF Stage:5| AND |Progressive SA Stage:5| AND |Progressive UFO Stage:5| AND |Progressive TD Stage:5| AND |Progressive DDC Stage:5| AND |Progressive LoLK Stage:5| AND |Progressive HSiFS Stage:5| AND |Progressive WBaWC Stage:5| AND |Progressive UM Stage:5| AND |Progressive FW Stage:5|",
     "region": "Gensokyo"
   },
   {
-    "name": "Free Item",
+    "name": "Unseasonable Butterfly Storm",
+    "region": "Gensokyo",
     "category": [
-      "Meta"
+      "Spellcard"
     ],
-    "requires": [],
-    "region": "Gensokyo"
+    "requires": "((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
   },
   {
-    "name": "Free Useful",
+    "name": "Blind Nightbird",
+    "region": "Gensokyo",
     "category": [
-      "Meta"
+      "Spellcard"
     ],
-    "requires": [],
-    "place_item_category": [
-      "Useful"
+    "requires": "(|Progressive IN Stage:1|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "name": "Emperor of the Land of the Rising Sun",
+    "region": "Gensokyo",
+    "category": [
+      "Spellcard"
     ],
-    "region": "Gensokyo"
+    "requires": "(|Progressive IN Stage:2|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "name": "Stare of the Hazy Phantom Moon (Lunatic Red Eyes)",
+    "region": "Gensokyo",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive IN Stage:4|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Heaven Spider's Butterfly Capturing Web",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Tree-Ocean of Hourai",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive IN Stage:5|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Phoenix Rebirth",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Extra Stage IN|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Ancient Duper",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive IN Stage:4|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Total Purification",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive IN Stage:2|) AND (|Extra Stage IN|) AND ((|IN Border Team|) OR (|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Fantasy Nature",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Border Team| OR |IN Reimu Solo|) OR ((|Progressive IN Stage:3|) AND ((|IN Magic Team|) OR (|IN Scarlet Team|) OR (|IN Marisa Solo|) OR (|IN Alice Solo|) OR (|IN Sakuya Solo|) OR (|IN Remilia Solo|)))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Blazing Star",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Magic Team| OR |IN Marisa Solo|) OR (|Progressive IN Stage:3|) AND ((|IN Border Team|) OR (|IN Ghost Team|) OR (|IN Reimu Solo|) OR (|IN Yukari Solo|) OR (|IN Youmu Solo|) OR (|IN Yuyuko Solo|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Deflation World",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Scarlet Team| OR |IN Sakuya Solo|)"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Matsuyoi-Reflecting Satellite Slash",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Ghost Team| OR |IN Youmu Solo|)"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "The Phantom of the Grand Guignol",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Magic Team| OR |IN Alice Solo|)"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Scarlet Destiny",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Scarlet Team| OR |IN Remilia Solo|)"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Saigyouji Flawless Nirvana",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Ghost Team| OR |IN Yuyuko Solo|)"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Profound Danmaku Barrier -Phantasm, Foam, and Shadow-",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|IN Border Team| OR |IN Yukari Solo|)"
+  },
+  {
+    "name": "Cherry Blossom Blizzard Hell",
+    "region": "Gensokyo",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "name": "Yamabiko's Specialty Echo Demonstration",
+    "region": "Gensokyo",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:1|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Undead Murderer",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:2|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "TAO Fetal Movement ~Dao~",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:3|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Iruka's Thunder",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:4|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Sun Goddess's Sacrifice",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:4|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Divine Spirits' Macrocosmos",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Progressive TD Stage:5|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
+  },
+  {
+    "region": "Gensokyo",
+    "name": "Wild Carpet",
+    "category": [
+      "Spellcard"
+    ],
+    "requires": "(|Extra Stage TD|) AND ((|TD Reimu|) OR (|TD Marisa|) OR (|TD Sanae|) OR (|TD Youmu|))"
   }
 ]

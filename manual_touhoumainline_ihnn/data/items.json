@@ -584,6 +584,94 @@
     "progression": true
   },
   {
+    "count": 1,
+    "name": "FW Reimu",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Marisa",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Scarlet Devil",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Creature Red",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Snow Blossom",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Blue Season",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Yellow Subterranean",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Imperishable Moon",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Beast Hardness",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Shintoism Wind",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "FW Hyper Breaks",
+    "category": [
+      "FW Shot"
+    ],
+    "progression": true
+  },
+  {
     "count": "9",
     "name": "Starting Life",
     "category": [
@@ -630,6 +718,20 @@
       "Useful"
     ],
     "useful": true
+  },
+  {
+    "count": "3",
+    "name": "Spell Skip",
+    "category": [
+      "Useful"
+    ],
+    "useful": true
+  },
+  {
+    "count": "20",
+    "name": "Point Items",
+    "category": [],
+    "filler": true
   },
   {
     "count": "5",
@@ -728,6 +830,14 @@
     "progression": true
   },
   {
+    "count": "5",
+    "name": "Progressive FW Stage",
+    "category": [
+      "Stage"
+    ],
+    "progression": true
+  },
+  {
     "count": 1,
     "name": "Extra Stage EoSD",
     "category": [
@@ -818,6 +928,14 @@
   {
     "count": 1,
     "name": "Extra Stage UM",
+    "category": [
+      "Extra Stage"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Extra Stage FW",
     "category": [
       "Extra Stage"
     ],
