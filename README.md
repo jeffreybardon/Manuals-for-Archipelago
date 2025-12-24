@@ -1,7 +1,7 @@
 This is a collection of [Manual](https://github.com/ManualForArchipelago) apworld implementations for [Archipelago](https://archipelago.gg/).
 
 Included so far:  
-[Every mainline Touhou game](https://github.com/jeffreybardon/Manuals-for-Archipelago/releases/tag/1.0) (6-8, 10-18)  
+[Every mainline Touhou game](https://github.com/jeffreybardon/Manuals-for-Archipelago/releases/tag/1.1) (6-8, 10-18, 20)  
 Touhou 14.3 (requires a completed file, semi-alpha, no formal release)  
 
 How to use each Manual will be included alongside the release.
